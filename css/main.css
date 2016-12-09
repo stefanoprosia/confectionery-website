@@ -29,13 +29,13 @@ h2 {
   line-height: 1.4;
   margin: 0;
   padding-left: .5em;
-  font-family: "Arimo", serif;
+  font-family: Arimo, serif;
 }
 
 h3 {
   margin: 0;
   padding-left: .5em;
-  font-family: "Arimo", serif;
+  font-family: Arimo, serif;
 }
 
 p {
@@ -55,7 +55,7 @@ header h1 {
   margin: 0;
   text-align: center;
   font-size: 2rem;
-  font-family: "Arimo", serif;
+  font-family: Arimo, serif;
 }
 
 nav a {
@@ -116,6 +116,7 @@ footer {
 }
 
 @media only screen and (min-width: 25em) {
+
   html {
     font-size: 100%;
     line-height: 1.3;

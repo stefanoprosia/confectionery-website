@@ -61,7 +61,7 @@ header h1 {
 nav a {
   white-space: nowrap;
   text-decoration: none;
-  color: #4274f4;
+  color: #fff;
   background-image: url("../images/background.jpg");
 }
 
@@ -80,7 +80,6 @@ nav ul li {
 
 nav a:hover {
   color: #fff;
-  background-color: #bc42f4;
   padding: 11.7px;
 }
 

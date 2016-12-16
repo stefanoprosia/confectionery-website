@@ -30,12 +30,14 @@ h2 {
   margin: 0;
   padding-left: .5em;
   font-family: Arimo, serif;
+  color: #bf46fc;
 }
 
 h3 {
   margin: 0;
   padding-left: .5em;
   font-family: Arimo, serif;
+  color: #441f44;
 }
 
 p {
@@ -79,7 +81,7 @@ nav ul li {
 }
 
 nav a:hover {
-  color: #fff;
+  color: #bf46fc;
   background-color: #bc42f4;
   padding: 11.7px;
 }
